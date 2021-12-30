@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.manito tr{
+  cursor: pointer;
+}
+
+.papeleraRoja{
+  color: #a30606;
+}
